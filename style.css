@@ -6,3 +6,35 @@
     margin-top:  4rem!important
 
 }
+.btn-link{
+    background-color: blue;
+    border-radius: 25px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 6px;
+}
+.btn-link a,h5{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+.btn-tupple{
+    background-color: chocolate;
+    border-radius: 25px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 6px;
+    margin-top: 9px;
+
+
+}
+.btn-tupple a,h5{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+
+}
